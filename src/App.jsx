@@ -10,7 +10,7 @@ import logoAvatar from "./images/image-avatar.png"
 function App() {
   return (
    
-<body class ="flex justify-center	items-center font-['Outfit'] p-25 min-h-screen bg-veryDarkBlueMainBG 	">
+<body class ="flex justify-center	items-center font-Outfit p-25 min-h-screen bg-veryDarkBlueMainBG 	">
 
 <div class="max-w-xs mx-8 p-5 shadow-2xl rounded-lg bg-veryDarkBlueCardBG  ">
 
